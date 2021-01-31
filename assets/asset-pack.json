@@ -1,0 +1,289 @@
+{
+    "section1": {
+        "files": [
+            {
+                "atlasURL": "assets/animations/animations.json",
+                "textureURL": "assets/animations/animations.png",
+                "type": "atlas",
+                "key": "animations"
+            },
+            {
+                "url": "assets/animations/animationsList.json",
+                "type": "animation",
+                "key": "animationsList"
+            },
+            {
+                "url": "assets/images/babero.png",
+                "type": "image",
+                "key": "babero"
+            },
+            {
+                "url": "assets/images/back1.png",
+                "type": "image",
+                "key": "back1"
+            },
+            {
+                "url": "assets/images/bagMarco.png",
+                "type": "image",
+                "key": "bagMarco"
+            },
+            {
+                "url": "assets/images/bgGrande.png",
+                "type": "image",
+                "key": "bgGrande"
+            },
+            {
+                "url": "assets/images/btn1.png",
+                "type": "image",
+                "key": "btn1"
+            },
+            {
+                "url": "assets/images/btn2.png",
+                "type": "image",
+                "key": "btn2"
+            },
+            {
+                "url": "assets/prefabs/Bullet.js",
+                "type": "script",
+                "key": "Bullet"
+            },
+            {
+                "url": "assets/images/buya.png",
+                "type": "image",
+                "key": "buya"
+            },
+            {
+                "url": "assets/images/chick.png",
+                "type": "image",
+                "key": "chick"
+            },
+            {
+                "url": "assets/prefabs/Chimney.js",
+                "type": "script",
+                "key": "Chimney"
+            },
+            {
+                "url": "assets/prefabs/Enemy.js",
+                "type": "script",
+                "key": "Enemy"
+            },
+            {
+                "url": "assets/prefabs/EnemyBullet.js",
+                "type": "script",
+                "key": "EnemyBullet"
+            },
+            {
+                "url": "assets/prefabs/EnemyShield.js",
+                "type": "script",
+                "key": "EnemyShield"
+            },
+            {
+                "url": [
+                    "assets/sounds/FX_Button.mp3"
+                ],
+                "type": "audio",
+                "key": "FX_Button"
+            },
+            {
+                "url": [
+                    "assets/sounds/FX_failure.mp3"
+                ],
+                "type": "audio",
+                "key": "FX_failure"
+            },
+            {
+                "url": [
+                    "assets/sounds/FX_Grab.mp3"
+                ],
+                "type": "audio",
+                "key": "FX_Grab"
+            },
+            {
+                "url": [
+                    "assets/sounds/FX_Meterlamano.mp3"
+                ],
+                "type": "audio",
+                "key": "FX_Meterlamano"
+            },
+            {
+                "url": [
+                    "assets/sounds/FX_Search.mp3"
+                ],
+                "type": "audio",
+                "key": "FX_Search"
+            },
+            {
+                "url": [
+                    "assets/sounds/FX_Success.mp3"
+                ],
+                "type": "audio",
+                "key": "FX_Success"
+            },
+            {
+                "url": [
+                    "assets/sounds/gameplay.mp3"
+                ],
+                "type": "audio",
+                "key": "gameplay"
+            },
+            {
+                "url": "assets/images/hand.png",
+                "type": "image",
+                "key": "hand"
+            },
+            {
+                "url": "assets/images/letreroAprobar.png",
+                "type": "image",
+                "key": "letreroAprobar"
+            },
+            {
+                "url": "assets/levels/Level.js",
+                "type": "sceneFile",
+                "key": "Level"
+            },
+            {
+                "url": [
+                    "assets/sounds/main.mp3"
+                ],
+                "type": "audio",
+                "key": "main"
+            },
+            {
+                "url": "assets/images/media.png",
+                "type": "image",
+                "key": "media"
+            },
+            {
+                "url": "assets/images/obj1.png",
+                "type": "image",
+                "key": "obj1"
+            },
+            {
+                "url": "assets/images/obj10.png",
+                "type": "image",
+                "key": "obj10"
+            },
+            {
+                "url": "assets/images/obj11.png",
+                "type": "image",
+                "key": "obj11"
+            },
+            {
+                "url": "assets/images/obj12.png",
+                "type": "image",
+                "key": "obj12"
+            },
+            {
+                "url": "assets/images/obj2.png",
+                "type": "image",
+                "key": "obj2"
+            },
+            {
+                "url": "assets/images/obj3.png",
+                "type": "image",
+                "key": "obj3"
+            },
+            {
+                "url": "assets/images/obj4.png",
+                "type": "image",
+                "key": "obj4"
+            },
+            {
+                "url": "assets/images/obj5.png",
+                "type": "image",
+                "key": "obj5"
+            },
+            {
+                "url": "assets/images/obj6.png",
+                "type": "image",
+                "key": "obj6"
+            },
+            {
+                "url": "assets/images/obj7.png",
+                "type": "image",
+                "key": "obj7"
+            },
+            {
+                "url": "assets/images/obj8.png",
+                "type": "image",
+                "key": "obj8"
+            },
+            {
+                "url": "assets/images/obj9.png",
+                "type": "image",
+                "key": "obj9"
+            },
+            {
+                "url": "assets/images/oso.png",
+                "type": "image",
+                "key": "oso"
+            },
+            {
+                "url": "assets/images/panel.png",
+                "type": "image",
+                "key": "panel"
+            },
+            {
+                "url": "assets/prefabs/PF_Mano.js",
+                "type": "script",
+                "key": "PF_Mano"
+            },
+            {
+                "url": "assets/prefabs/PF_Oso.js",
+                "type": "script",
+                "key": "PF_Oso"
+            },
+            {
+                "url": "assets/prefabs/Portal.js",
+                "type": "script",
+                "key": "Portal"
+            },
+            {
+                "url": "assets/prefabs/prefbusc_objeto.js",
+                "type": "script",
+                "key": "prefbusc_objeto"
+            },
+            {
+                "url": "assets/images/proto.png",
+                "type": "image",
+                "key": "proto"
+            },
+            {
+                "url": "assets/images/ropa.png",
+                "type": "image",
+                "key": "ropa"
+            },
+            {
+                "url": "assets/prefabs/SantaHeart.js",
+                "type": "script",
+                "key": "SantaHeart"
+            },
+            {
+                "url": "assets/prefabs/SantaPlayer.js",
+                "type": "script",
+                "key": "SantaPlayer"
+            },
+            {
+                "url": "assets/images/tetero.png",
+                "type": "image",
+                "key": "tetero"
+            },
+            {
+                "url": "assets/images/ugh.png",
+                "type": "image",
+                "key": "ugh"
+            },
+            {
+                "url": "assets/images/wellDone.png",
+                "type": "image",
+                "key": "wellDone"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

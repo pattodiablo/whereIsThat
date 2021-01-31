@@ -1,0 +1,31 @@
+{
+    "id": "4cdc946d-32e9-4d9d-8f02-d2d6dd017228",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 640,
+        "borderHeight": 960
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "5ada4540-5b74-4147-a623-bc510d2ef217",
+            "label": "hand",
+            "components": [],
+            "texture": {
+                "key": "hand"
+            },
+            "x": 2,
+            "y": 2,
+            "originY": 0.95
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

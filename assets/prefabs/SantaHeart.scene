@@ -1,0 +1,28 @@
+{
+    "id": "dab19baf-a1a9-4560-a400-1770e190776e",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 640,
+        "borderHeight": 960
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "6b950b75-c5d2-430b-b511-ebf18f9cd065",
+            "label": "heartLife0000",
+            "components": [],
+            "texture": {
+                "key": "animations",
+                "frame": "heartLife0000"
+            }
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
