@@ -174,9 +174,64 @@
                 "key": "obj12"
             },
             {
+                "url": "assets/images/obj13.png",
+                "type": "image",
+                "key": "obj13"
+            },
+            {
+                "url": "assets/images/obj14.png",
+                "type": "image",
+                "key": "obj14"
+            },
+            {
+                "url": "assets/images/obj15.png",
+                "type": "image",
+                "key": "obj15"
+            },
+            {
+                "url": "assets/images/obj16.png",
+                "type": "image",
+                "key": "obj16"
+            },
+            {
+                "url": "assets/images/obj17.png",
+                "type": "image",
+                "key": "obj17"
+            },
+            {
+                "url": "assets/images/obj18.png",
+                "type": "image",
+                "key": "obj18"
+            },
+            {
+                "url": "assets/images/obj19.png",
+                "type": "image",
+                "key": "obj19"
+            },
+            {
                 "url": "assets/images/obj2.png",
                 "type": "image",
                 "key": "obj2"
+            },
+            {
+                "url": "assets/images/obj20.png",
+                "type": "image",
+                "key": "obj20"
+            },
+            {
+                "url": "assets/images/obj21.png",
+                "type": "image",
+                "key": "obj21"
+            },
+            {
+                "url": "assets/images/obj22.png",
+                "type": "image",
+                "key": "obj22"
+            },
+            {
+                "url": "assets/images/obj23.png",
+                "type": "image",
+                "key": "obj23"
             },
             {
                 "url": "assets/images/obj3.png",
@@ -262,11 +317,6 @@
                 "url": "assets/prefabs/SantaPlayer.js",
                 "type": "script",
                 "key": "SantaPlayer"
-            },
-            {
-                "url": "assets/images/tetero.png",
-                "type": "image",
-                "key": "tetero"
             },
             {
                 "url": "assets/images/ugh.png",

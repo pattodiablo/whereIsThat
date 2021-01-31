@@ -153,6 +153,7 @@ class Level extends Phaser.Scene {
 		this.mainSound.stop();
 		this.btnPlaySound.play();
 		this.gameplaySound.setVolume(0.5);
+		this.gameplaySound.loop=true;
 		this.gameplaySound.play();
 		
 
@@ -178,11 +179,12 @@ class Level extends Phaser.Scene {
 		}else{
 			var xBorn = -200;
 		}
-		var yBorn = Math.random() * (700 - 930) + 900;
-		var listaCosasCartera=["obj1","obj2","obj3","obj4","obj5","obj6","obj7","obj8","obj9","obj10","obj11","obj12"];
+		var yBorn = Math.random() * (800 - 500) + 500;
+
+		var listaCosasCartera=["obj1","obj2","obj3","obj4","obj5","obj6","obj7","obj8","obj9","obj10","obj11","obj12","obj13","obj14","obj15","obj16","obj17","obj18","obj19","obj20","ob21","obj22","obj23"];
 		var elementoDuplicar=(this.objetoXAparecer+1);
 		
-		for (var i=0;i<=5;i++){
+		for (var i=0;i<=10;i++){
 			listaCosasCartera.push("obj"+elementoDuplicar);
 		}
 		
@@ -203,14 +205,15 @@ class Level extends Phaser.Scene {
 
 		this.panel.visible = true;
 		//this.letreroAprobar.visible = true;
-		var listaCosas=["obj1","obj2","obj3","obj4","obj5","obj6","obj7","obj8","obj9","obj10","obj11","obj12"];
-		this.objetoXAparecer= Math.abs(Math.round(Math.random() * (11-0) + 0));
+		var listaCosas=["obj1","obj2","obj3","obj4","obj5","obj6","obj7","obj8","obj9","obj10","obj11","obj12","obj13","obj14","obj15","obj16","obj17","obj18","obj19","obj20","ob21","obj22","obj23"];
+		this.objetoXAparecer= Math.abs(Math.round(Math.random() * (22-0) + 0));
 		if(this.listaObjetosBuscados.length>0){
 			var dropeado = this.listaObjetosBuscados.pop();
 			dropeado.destroy();
 		}
 		const objeto_buscar = new prefbusc_objeto(this, 100, 230, listaCosas[this.objetoXAparecer]);
 		objeto_buscar.nombre=listaCosas[this.objetoXAparecer];
+		
 		this.objetoBuscado=listaCosas[this.objetoXAparecer];
 
 		this.listaObjetosBuscados.push(objeto_buscar);
